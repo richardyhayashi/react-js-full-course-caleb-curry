@@ -7,7 +7,7 @@ Source: -
 
 1. Introduction
 2. Intro to React
-3.
+3. Create React App Files Explained
 4.
 5.
 6.
