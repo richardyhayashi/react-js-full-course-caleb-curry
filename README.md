@@ -10,7 +10,7 @@ Source: -
 3. Create React App Files Explained
 4. Our First Component
 5. Understand Props in Components
-6.
+6. Intro to useState Hook
 7.
 8.
 9.
