@@ -13,7 +13,7 @@ Source: -
 6. Intro to useState Hook
 7. Install Tailwind CSS for React
 8. Styling React with Tailwind CSS Classes
-9.
+9. Map through State Array (Loop)
 10.
 11.
 12.
