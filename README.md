@@ -16,8 +16,8 @@ Source: -
 9. Map through State Array (Loop)
 10. Create a Popup Modal with React Bootstrap
 11. Create and Style HTML Form
-12.
-13.
+12. Profile Form Data in Modal
+13. Update Parent Component State in Child Component
 14.
 15.
 16.
