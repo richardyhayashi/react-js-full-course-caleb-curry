@@ -11,7 +11,7 @@ Source: -
 4. Our First Component
 5. Understand Props in Components
 6. Intro to useState Hook
-7.
+7. Install Tailwind CSS for React
 8.
 9.
 10.
