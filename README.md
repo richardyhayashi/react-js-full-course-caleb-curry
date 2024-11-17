@@ -8,7 +8,7 @@ Source: -
 1. Introduction
 2. Intro to React
 3. Create React App Files Explained
-4.
+4. Our First Component
 5.
 6.
 7.
