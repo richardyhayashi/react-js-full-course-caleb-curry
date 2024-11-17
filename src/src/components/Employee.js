@@ -1,8 +1,16 @@
 import React from 'react';
 
-const Employee = () => {
+const Employee = (props) => {
   return (
-    <h3> Here is an Employee</h3>
+    <>
+      <h3>Employee {props.name}</h3>
+      <p>{props.role ? props.role : 'No role'}</p>
+      {props.role ? (
+        <p>{props.role}</p>
+      ) : (
+        <p>No role</p>
+      )}
+    </>
   );
 };
 
