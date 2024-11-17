@@ -6,7 +6,7 @@ YouTube: `https://www.youtube.com/playlist?list=PL_c9BZzLwBRKFRIBWEWYCnV4Lk9HE3e
 Source: -
 
 1. Introduction
-2.
+2. Intro to React
 3.
 4.
 5.
