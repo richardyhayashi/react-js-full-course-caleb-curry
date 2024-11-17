@@ -10,37 +10,37 @@ function App() {
       id: 1,
       name: 'Richard',
       role: 'Developer',
-      img: './img/portrait.jpeg"',
+      img: './img/portrait.jpeg',
     },
     {
       id: 2,
       name: 'Sal',
       role: 'Manager',
-      img: './img/portrait.jpeg"',
+      img: './img/portrait.jpeg',
     },
     {
       id: 3,
       name: 'John',
       role: 'Director of Eng.',
-      img: './img/portrait.jpeg"',
+      img: './img/portrait.jpeg',
     },
     {
       id: 4,
       name: 'Melanie',
       role: 'Software Engineer',
-      img: './img/portrait.jpeg"',
+      img: './img/portrait.jpeg',
     },
     {
       id: 5,
       name: 'Corey',
       role: 'The Devops Guy',
-      img: './img/portrait.jpeg"',
+      img: './img/portrait.jpeg',
     },
     {
       id: 6,
       name: 'Jake',
       role: 'Senior Intern',
-      img: './img/portrait.jpeg"',
+      img: './img/portrait.jpeg',
     },
   ]);
   const showEmplpoyees = true;

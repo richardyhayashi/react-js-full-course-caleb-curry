@@ -14,7 +14,7 @@ Source: -
 7. Install Tailwind CSS for React
 8. Styling React with Tailwind CSS Classes
 9. Map through State Array (Loop)
-10.
+10. Create a Popup Modal with React Bootstrap
 11.
 12.
 13.
