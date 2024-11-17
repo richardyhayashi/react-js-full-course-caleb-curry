@@ -12,7 +12,7 @@ Source: -
 5. Understand Props in Components
 6. Intro to useState Hook
 7. Install Tailwind CSS for React
-8.
+8. Styling React with Tailwind CSS Classes
 9.
 10.
 11.

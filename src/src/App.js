@@ -7,7 +7,7 @@ function App() {
   const showEmplpoyees = true;
 
   return (
-    <div className="App bg-red-300">
+    <div className="App">
       {showEmplpoyees ? (
         <>
           <input
@@ -17,9 +17,17 @@ function App() {
               setRole(e.target.value);
             }}
           />
-          <Employee name="Richard" role="Intern" />
-          <Employee name="Abby" role={role} />
-          <Employee name="John" />
+          <div className="flex flex-wrap justify-center">
+            <Employee name="Richard" role="Intern" img="./img/portrait.jpeg" />
+            <Employee name="Abby" role={role} img="./img/portrait.jpeg" />
+            <Employee name="John" img="./img/portrait.jpeg" />
+            <Employee name="Richard" role="Intern" img="./img/portrait.jpeg" />
+            <Employee name="Abby" role={role} img="./img/portrait.jpeg" />
+            <Employee name="John" img="./img/portrait.jpeg" />
+            <Employee name="Richard" role="Intern" img="./img/portrait.jpeg" />
+            <Employee name="Abby" role={role} img="./img/portrait.jpeg" />
+            <Employee name="John" img="./img/portrait.jpeg" />
+          </div>
         </>
       ) : (
         <p>No Employees</p>
